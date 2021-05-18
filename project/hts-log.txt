@@ -1,20 +1,27 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 May 2021 08:43:25 at https://info.info/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://info.info/ -O1 "C:\My Web Sites\abc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 May 2021 09:25:54 at http://milkywayinfotech.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://milkywayinfotech.in/ -O1 "C:\My Web Sites\Milkyway" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-08:45:08	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://info.info/)
-08:48:26	Error: 	"Unsupported Media Type" (415) at link https://info.info/sites/afilias-tld/files/styles/signature_image/adaptive-image/public/how2recycle.PNG?itok=Vz4x_77C (from https://info.info/whos-using)
-08:55:18	Error: 	"Forbidden" (403) at link https://info.info/newsroom/blog/youtube-videos-promote-your-small-business (from https://info.info/newsroom/blog/how-easily-create-and-publish-youtube-video)
-08:55:18	Error: 	"Forbidden" (403) at link https://info.info/newsroom/blog/do-keywords-still-work-how-improve-your-google-search-rank-year (from https://info.info/newsroom/blog/how-easily-create-and-publish-youtube-video)
-08:56:50	Error: 	"Not Found" (404) at link https://info.info/news/2010/08/06/http//:info-awards.info (from https://info.info/newsroom/press-release/afilias-opens-info-awards-select-best-websites-2010)
-08:59:19	Error: 	"Forbidden" (403) at link https://info.info/newsroom/blog/how-choose-best-email-marketing-platform-your-small-business (from https://info.info/newsroom/blog/5-email-marketing-mistakes-can-sink-your-campaigns)
-09:00:58	Warning: 	Moved Temporarily for https://info.info/node/upgrade-your-email-marketing-15-minutes-domain-emails/
-09:00:58	Warning: 	File has moved from https://info.info/node/upgrade-your-email-marketing-15-minutes-domain-emails/ to https://info.info/
-09:01:01	Error: 	"Not Found" (404) at link https://info.info/news/2008/04/11/www.info-award.info (from https://info.info/newsroom/press-release/afilias-opens-info-awards-german-speaking-info-website)
+09:27:19	Error: 	"Not Found" (404) at link milkywayinfotech.in/ppt-designing (from milkywayinfotech.in/)
+09:27:19	Error: 	"Not Found" (404) at link milkywayinfotech.in/-mysql" (from milkywayinfotech.in/)
+09:27:19	Error: 	"Not Found" (404) at link milkywayinfotech.in/software-development (from milkywayinfotech.in/)
+09:27:20	Warning: 	Retry after error 500 (Internal Server Error) at link milkywayinfotech.in/ecommerce-solutions (from milkywayinfotech.in/)
+09:27:20	Error: 	"Not Found" (404) at link milkywayinfotech.in/os-commerce-development (from milkywayinfotech.in/)
+09:27:20	Warning: 	Retry after error 500 (Internal Server Error) at link milkywayinfotech.in/shopify-customization (from milkywayinfotech.in/)
+09:27:20	Warning: 	Retry after error -4 (Connect Error) at link milkywayinfotech.in/about-us (from milkywayinfotech.in/)
+09:27:20	Error: 	"Not Found" (404) at link milkywayinfotech.in/career-with-us (from milkywayinfotech.in/)
+09:27:20	Error: 	"Not Found" (404) at link milkywayinfotech.in/website-design-development-company-noida (from milkywayinfotech.in/)
+09:27:22	Error: 	"Not Found" (404) at link https://www.milkywayinfotech.in/public/front/css/owl.video.play.html (from https://www.milkywayinfotech.in/public/front/css/owl.carousel.min.css)
+09:27:22	Error: 	"Not Found" (404) at link https://www.milkywayinfotech.in/public/front/images/banner/banner-bg.jpg (from https://www.milkywayinfotech.in/public/front/css/style.css)
+09:27:22	Error: 	"Not Found" (404) at link https://www.milkywayinfotech.in/public/front/images/coming-soon-bg.jpg (from https://www.milkywayinfotech.in/public/front/css/style.css)
+09:27:22	Warning: 	Retry after error 500 (Internal Server Error) at link milkywayinfotech.in/ecommerce-solutions (from milkywayinfotech.in/)
+09:27:22	Warning: 	Retry after error 500 (Internal Server Error) at link milkywayinfotech.in/shopify-customization (from milkywayinfotech.in/)
+09:27:27	Error: 	"Internal Server Error" (500) after 2 retries at link milkywayinfotech.in/ecommerce-solutions (from milkywayinfotech.in/)
+09:27:27	Error: 	"Internal Server Error" (500) after 2 retries at link milkywayinfotech.in/shopify-customization (from milkywayinfotech.in/)
 
-HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 25 seconds : 961 links scanned, 952 files written (101220467 bytes overall) [86902799 bytes received at 78645 bytes/sec], 18800455 bytes transferred using HTTP compression in 566 files, ratio 20%, 16.5 requests per connection
-(7 errors, 2 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 33 seconds : 110 links scanned, 92 files written (3415365 bytes overall) [2845905 bytes received at 30601 bytes/sec], 846168 bytes transferred using HTTP compression in 58 files, ratio 25%, 5.7 requests per connection
+(11 errors, 5 warnings, 0 messages)
