@@ -1,6 +1,6 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-milkywayinfotech.in	TRUE	/	FALSE	1999999999	ci_session	217d2da218977cc96e92fc69d6a054d49298470f
-www.milkywayinfotech.in	TRUE	/	FALSE	1999999999	csrf_cookie_name	4b4a6c6f6c0b5947f4c568b6415d37e0
-milkywayinfotech.in	TRUE	/	FALSE	1999999999	csrf_cookie_name	37bed6ae4154665bfd83eede17f26ceb
+milkywayinfotech.in	TRUE	/	FALSE	1999999999	ci_session	df5fab3f22daadf688533003f5b1c81014bcfdb8
+www.milkywayinfotech.in	TRUE	/	FALSE	1999999999	csrf_cookie_name	ae1c23e2d209423cae77aa59ee4b3538
+milkywayinfotech.in	TRUE	/	FALSE	1999999999	csrf_cookie_name	50971e1e0e57fa6a7adab292ec6a09db
 
